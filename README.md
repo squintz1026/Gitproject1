@@ -6,4 +6,6 @@ test add with no conflicts
 # adding a comment because best practices.
 This project is cool.
 
-How about I add more things. 
+How about I add more things.
+
+But what if I add more things to an already committed file?
